@@ -1,9 +1,5 @@
 import { useRef, useEffect } from "react";
 
-interface MousePosition {
-  x: number;
-  y: number;
-}
 
 interface Block {
   col: number;
